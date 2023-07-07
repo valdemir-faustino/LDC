@@ -1,0 +1,55 @@
+.tabela-dados {
+    font-family: Arial, sans-serif;
+  }
+  
+  .inputs {
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="date"] {
+    margin-right: 10px;
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+    border: 2px solid;
+  
+  }
+  
+  button ,p{
+    padding: 5px 10px;
+    background-color: yellow;
+    color: black;
+    border: none;
+    cursor: pointer;
+    font-size: 2rem;
+    border: 2px solid;
+    margin: 10px;
+  }
+  
+  p{
+    padding: 5px 10px;
+    background-color: yellow;
+    color: black;
+    border: none;
+    cursor: pointer;
+    font-size: 1rem;
+    border: 1px solid;
+    margin: 10px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th,
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: yellow;
+  }
